@@ -246,7 +246,7 @@ WHERE o.price > p.price_80_percentile;
 
 ---
 
-# ⚙️ How to Run This Project
+# ⚙️ How to Run This Project ( If you want to start from scratch )
 
 ### 1. Open **BigQuery Sandbox**
 > https://console.cloud.google.com/bigquery  
